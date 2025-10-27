@@ -25,17 +25,21 @@ Open the project by navigating to "File" then "Open Project" and selecting the e
 In NetBeans, run the project.
 This action should open the user homepage of "RideWave" in your default web browser.
 
-6. Admin Login:
+6. User Login:
+To log in as a user, use the following credentials:
+User Email: youpenn2003@gmail.com
+or Student ID: 23JMR08036
+User Password: Abc@123456
+Alternatively, you can register a new account using your own email address and Student ID.
+
+
+**Not include Admin side yet, I will update in future
+
+7. Admin Login:
 To log in as an admin, use the following credentials:
 Email	: sooyk-jm21@student.tarc.edu.my
 Password: RootAdmin!
 
 *Admin login requires OTP, you need to open XAMPP control panel, click the "Start" button for "Apache" and "MySQL", then click the "Admin" button for "MySQL" to enter phpMyAdmin. Click the "carpooldb" and "admin" tables to change the current email to your email.
 
-7. User Login:
-To log in as a user, use the following credentials:
-User Email: youpenn2003@gmail.com
-or Student ID: 23JMR08036
-User Password: Abc@123456
 
-Alternatively, you can register a new account using your own email address and Student ID.
