@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>RideWave</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>AdminPhone</word>
+            <word>Confim</word>
+            <word>JPeG</word>
+            <word>Lofin</word>
+            <word>php</word>
+            <word>RideWave</word>
+            <word>stutus</word>
+            <word>ViewPassenger</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
