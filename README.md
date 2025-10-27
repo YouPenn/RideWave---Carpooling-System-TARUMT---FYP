@@ -26,12 +26,10 @@ In NetBeans, run the project.
 This action should open the user homepage of "RideWave" in your default web browser.
 
 6. User Login:
-To log in as a user, use the following credentials:
+To log in as a user, use the following credentials or register a new account using your own email address and Student ID:
 User Email: youpenn2003@gmail.com
 or Student ID: 23JMR08036
 User Password: Abc@123456
-
-Alternatively, you can register a new account using your own email address and Student ID.
 
 
 **Not include Admin side yet, I will update in future
