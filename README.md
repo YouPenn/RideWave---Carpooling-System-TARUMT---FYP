@@ -30,6 +30,7 @@ To log in as a user, use the following credentials:
 User Email: youpenn2003@gmail.com
 or Student ID: 23JMR08036
 User Password: Abc@123456
+
 Alternatively, you can register a new account using your own email address and Student ID.
 
 
